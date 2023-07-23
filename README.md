@@ -7,7 +7,6 @@
 
 ### 📧 DM me on Dicord @ `arya.dev`
 (other socials also on the left below my name)
-[![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?Arya4930=anuraghazra)](https://github.com/Arya4930/github-readme-stats)
 ```js
 wake_up()
 code()
