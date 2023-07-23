@@ -1,4 +1,4 @@
-# 👋 Hey, I am Arya
+## 👋 Hey, I am Arya
 <ul>
   <li>💘 javascript :)</li>
   <li>Learning Typescript and React</li>
