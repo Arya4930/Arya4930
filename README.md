@@ -8,7 +8,7 @@
 ### 📧 DM me on Dicord @ `arya.dev`
 (other socials also on the left below my name)
 ```js
-wake_up()
-code()
+eat()
 sleep()
+code()
 repeat()
