@@ -1,4 +1,3 @@
-![image](https://images-ext-2.discordapp.net/external/SHIATH0wBssGe02D8kGV9Cm3qopnCzOC_EE2YG8cb-c/%3Fid%3D106379243180381%26format%3Dprofile_banner/https/static.codingame.com/servlet/fileservlet?width=1025&height=271)
 # Hey, I am Arya 👋
 <ul>
   <li>I like writing code in javascript :)</li>
