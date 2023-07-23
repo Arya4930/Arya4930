@@ -2,6 +2,7 @@
 <ul>
   <li>I like writing code in javascript :)</li>
   <li>Learning Typescript and React</li>
+  <li>Likes Learning about SapceShips ( Mostly SpaceX 🚀 )</li>
   <li>17, Studying in 12th grade in India</li>
 </ul>
 
