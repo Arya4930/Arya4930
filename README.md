@@ -1,7 +1,7 @@
 ## 👋 Hey, I am Arya
 <ul>
   <li>💘 javascript :)</li>
-  <li>Learning Typescript and React</li>
+  <li>Learning Nextjs and MongoDB</li>
   <li>Likes Learning about Rockets ( Mostly SpaceX 🚀 )</li>
   <li>17, Studying in 12th grade in India</li>
 </ul>
