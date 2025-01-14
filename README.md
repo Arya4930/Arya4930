@@ -3,7 +3,7 @@
   <li>💘 javascript :)</li>
   <li>Learning Nextjs and MongoDB</li>
   <li>Likes Learning about Rockets ( Mostly SpaceX 🚀 )</li>
-  <li>17, Studying in 12th grade in India</li>
+  <li>18, First year, studying Computer Science a</li>
 </ul>
 
-## <details><summary>📧 DM me on Discord @ [`arya.dev`](https://www.discordapp.com/users/897794324748730368) </summary><li> Insta : [`sussy_Arya`](https://www.instagram.com/sussy_arya/)</li><li> Reddit : [`Arya493`](https://www.reddit.com/user/Arya493)</li><li>Twitter : [`SpaceStuffArya`](https://twitter.com/SpaceStuffArya)</details>
+### <details><summary>📧 DM me on Discord @ [`arya.dev`](https://www.discordapp.com/users/897794324748730368) </summary><li> Insta : [`arya_panwar22`](https://www.instagram.com/arya_panwar22/)</li><li>Twitter : [`SpaceStuffArya`](https://twitter.com/SpaceStuffArya)</details>
